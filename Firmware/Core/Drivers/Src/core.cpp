@@ -15,7 +15,7 @@ uint8_t is_wall_follow = 0;
 uint8_t is_icm_init = 0;
 
 //****************** User Configurable Parameters ***************** */
-Location GOAL(7, 7); // default goal location ********************
+Location GOAL(4, 10); // default goal location ********************
 Location HOME(0, 0);
 
 void systick(void) {
