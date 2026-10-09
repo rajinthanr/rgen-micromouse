@@ -5,3 +5,5 @@ Firmware/.cproject
 Firmware/.project
 Firmware/.mxproject
 .vscode
+# Compiled maze renderer
+Simulation/sim1
